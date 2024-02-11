@@ -1,0 +1,44 @@
+.cabeçalho{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.cabeçalho ul li{
+    display: inline;
+    color: aliceblue;
+    text-decoration: none;
+    padding-left: 18px;
+    
+    
+}
+
+.cabeçalho ul li a{
+    text-decoration: none;
+}
+
+.cabeçalho h1{
+    font-size: 50px;
+    font-family: "Protest Riot", sans-serif;
+}
+
+.futebol{
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+    
+
+
+.futebol img {
+    display: flex;
+    width: 40%;
+    
+}
+
+
+.Saúde {
+    background-color: aqua;
+}
