@@ -1,0 +1,41 @@
+.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    padding: 58px;
+
+    
+}
+
+.cabeçalho h1{
+    color: #fff;
+}
+
+.cabeçalho a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.esportes{
+    background-color: aqua;
+    padding: 8px;
+}
+
+.Economia{
+    background-color:chartreuse;
+    padding: 8px;
+    
+}
+
+.Sáude{
+    background-color: crimson;
+    padding: 8px;
+
+}
+
+
+.Música{
+    background-color: dodgerblue;
+    padding: 8px;
+}
