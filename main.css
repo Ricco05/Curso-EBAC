@@ -1,44 +1,41 @@
 .cabeçalho{
     display: flex;
-    margin: 0px;
-    padding: 0px;
     justify-content: space-between;
     align-items: center;
-    
-}
+    background-color: #000;
+    padding: 58px;
 
-.cabeçalho ul li{
-    display: inline;
-    color: aliceblue;
-    text-decoration: none;
-    padding-left: 18px;
     
-    
-}
-
-.cabeçalho ul li a{
-    text-decoration: none;
 }
 
 .cabeçalho h1{
-    font-size: 50px;
-    font-family: "Protest Riot", sans-serif;
+    color: #fff;
 }
 
-.futebol{
-    box-sizing: border-box;
-    background-color: aquamarine;
-}
-    
-
-
-.futebol img {
-    display: flex;
-    width: 40%;
-    
+.cabeçalho a{
+    color: #fff;
+    text-decoration: none;
 }
 
-
-.Saúde {
+.esportes{
     background-color: aqua;
+    padding: 8px;
+}
+
+.Economia{
+    background-color:chartreuse;
+    padding: 8px;
+    
+}
+
+.Sáude{
+    background-color: crimson;
+    padding: 8px;
+
+}
+
+
+.Música{
+    background-color: dodgerblue;
+    padding: 8px;
 }
